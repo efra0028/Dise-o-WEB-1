@@ -1,0 +1,8 @@
+.banner__imagen{
+    background: url('/img/portada.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+    padding-left: 4rem;
+    
+}

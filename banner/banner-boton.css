@@ -1,0 +1,13 @@
+.banner__boton {
+    background-color: red;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+
+.banner__boton:hover {
+    background-color: orange;
+    color: black;
+}

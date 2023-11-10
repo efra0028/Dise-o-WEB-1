@@ -1,0 +1,23 @@
+.menu__boton{
+    background-color: red;
+    border-radius: 0.5rem;
+   padding-top: 0.5rem;
+   padding-bottom: 0.5rem;
+   text-decoration: none;
+   color: white;
+   font-size: 1.2rem;
+}
+.menu__boton a{
+    text-decoration: none;
+    color: white;
+    
+}
+.menu__boton:hover{
+    background-color: yellow;
+    
+}
+.menu__boton a:hover{
+    text-decoration: none;
+    color: black;
+    
+}

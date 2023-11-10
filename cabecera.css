@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    
+}
+body{
+    background-color: black;
+    color: white;
+}
